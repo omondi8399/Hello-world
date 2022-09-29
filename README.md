@@ -1,2 +1,2 @@
-# Hello-world
-This is a new repository for practice.
+# Hello-Cuea
+I am a frontend developer and i love creating beautiful ui.
